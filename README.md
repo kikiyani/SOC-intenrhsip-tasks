@@ -1,4 +1,4 @@
-                                                                          SOC Internship - Wazuh & Sysmon Lab
+                                              SOC Internship - Wazuh & Sysmon Lab
 
 ### Overview
 This repository documents my learning and hands-on work during my SOC internship.  
