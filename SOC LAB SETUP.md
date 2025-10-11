@@ -1,12 +1,16 @@
+##################### SETTING UP THE NETWORK ON UBUNTU ##########################
 <img width="846" height="133" alt="image" src="https://github.com/user-attachments/assets/4d988e8b-c87e-40d8-ac37-98a9178dcdb3" />
 
-<img width="641" height="370" alt="image" src="https://github.com/user-attachments/assets/2e412ecd-862c-4585-8465-deded539c9ba" />
+<img width="627" height="192" alt="image" src="https://github.com/user-attachments/assets/c3a90bcb-6356-4fe7-913f-125fefcefd64" />
 
-<img width="806" height="160" alt="image" src="https://github.com/user-attachments/assets/2e106036-bdcc-4c86-b3b9-abb98053c1a8" />
+#################### SETTING UP WAZUH ########################
+
 
 <img width="1106" height="469" alt="image" src="https://github.com/user-attachments/assets/521ec4f1-5ac6-406e-858d-5333eefd5086" />
 
 <img width="1165" height="350" alt="image" src="https://github.com/user-attachments/assets/a3385184-cc6c-4bbb-8662-1bb111bc19fc" />
+
+
 
 <img width="940" height="384" alt="image" src="https://github.com/user-attachments/assets/e0a9a0da-2fd6-4c80-a7e6-3d6b4ae4d994" />
 
