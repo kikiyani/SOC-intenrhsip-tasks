@@ -56,7 +56,8 @@
                                                                                     APTSimulator Testing
 <img width="947" height="600" alt="image" src="https://github.com/user-attachments/assets/73d591f7-d133-47e0-ac8b-8cb15e4bfa0b" />
 
-<img width="581" height="330" alt="image" src="https://github.com/user-attachments/assets/675631a6-00ed-4c9b-b88c-352fbe68699b" />
+<img width="323" height="329" alt="image" src="https://github.com/user-attachments/assets/70656848-5da8-4241-83c8-5abc9e145183" />
+
 
 <img width="242" height="209" alt="image" src="https://github.com/user-attachments/assets/0fa3c2b6-a986-46bb-a551-08375ea77f72" />
 
